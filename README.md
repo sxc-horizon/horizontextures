@@ -1,15 +1,5 @@
-# Horizon´s texture pack :)
+# Horizonův texture pack
 
-Sooooo if you wanna be on the bleeding edge (cuz this is not complete)
+Čisté gui a zjednudušené textury (neasi xd)
 
-clone the repo inside your "resourcepacks" folder
-
-and well update it everytime i decide to be an a-hole and update 3 textures lol
-
-only major releases will be in that good ol´ releases page
-
-current minecraft version : 1.21.1
-
-current major release : 1211-b1
-
-current rolling release : 2502
+vlastní design mečů a to je asi vše xd
